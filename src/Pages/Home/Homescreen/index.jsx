@@ -1,4 +1,3 @@
-import Resume from "../../Resume";
 import AboutMe from "../AboutMe";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
