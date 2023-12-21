@@ -1,0 +1,66 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I possess a deep understanding of ReactJS internals, proficiently employing state variables and essential hooks such as useState, useEffect, useRef, and useMemo. Furthermore, I've adeptly utilized the Redux JS Toolkit to enhance state management and scalability. Apart from this I have also worked on Java Swing and AWT for desktop apps."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I have strong foundational knowledge of Node.js and Express.js for backend development. Along with this I have used MongoDB and SQL for database storage. I have developed custom APIs, implemented JWT authentication, and utilized Nodemailer for email functionalities."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Netflix-Gpt-image.jpg",
+      "title": "Netflix-GPT",
+      "description": "A platform for movie trailers and reviews, enhanced with the capabilities of OpenAI's GPT.",
+      "github_link": "https://github.com/abhinavsalar18/Netflix-GPT/",
+      "live": "https://netflixgpt-abhinav.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/ChatApp-image_same.jpg",
+      "title": "MERN ChatApp",
+      "description": "Connect with ease, manage group conversations, and elevate interactions with real-time features.",
+      "github_link": "https://github.com/abhinavsalar04/Chit-Chatra_ChatApp"
+    },
+    {
+      "id": "3",
+      "src": "./img/FabricDetails-image.jpg",
+      "title": "Fabric Details Tracker",
+      "description": "Fabric details tracker, add, update, delete fabric info with search and quantity filter.",
+      "github_link": "https://github.com/abhinavsalar18/Fabric-Details-Tracker"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
